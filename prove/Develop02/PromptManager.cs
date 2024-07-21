@@ -13,6 +13,7 @@ namespace JournalApp
             "Write a haiku.",
             "Write about the food you ate.",
             "Write 3 things you learned in school."
+            
         };
 
         public string GetRandomPrompt()

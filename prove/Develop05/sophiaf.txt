@@ -1,0 +1,4 @@
+53
+SimpleGoal|fd|fr|5
+EternalGoal|ffe|fef|5
+ChecklistGoal|fdf|fdfd|5|2|4|1|[x]

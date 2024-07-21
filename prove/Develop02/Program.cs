@@ -6,20 +6,23 @@ namespace JournalApp
     public class Program
     {
         public static void Main(string[] args)
+
+        //this will come first 
+
         {
             PromptManager promptManager = new PromptManager();
             Journal journal = new Journal();
             SaveFileManager saveFileManager = new SaveFileManager();
-
+        //Need to have a menu
             while (true)
             {
                 Console.WriteLine("Journal Menu:");
                 Console.WriteLine("1. Write a new entry");
                 Console.WriteLine("2. Display the journal");
-                Console.WriteLine("3. Save the journal to a file");
+                Console.WriteLine("3. Save the journal to a file (best saved with .txt at end)");
                 Console.WriteLine("4. Load the journal from a file");
                 Console.WriteLine("5. Exit");
-
+             //which one they choose
                 string choice = Console.ReadLine();
 
                 switch (choice)

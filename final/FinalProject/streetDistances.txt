@@ -1,0 +1,534 @@
+100 N Road,2.0
+1000 N,3.4
+180 W,4.5
+1st Street E,5.3
+200 W,2.1
+2nd Street E,1.0
+2nd Street W,2.2
+3rd Street E,3.1
+450 South Street,2.5
+5000 N,8.7
+8th N,6.2
+9th E,4.9
+9th N,7.3
+Airport Road,3.0
+Andrews Place,1.2
+Angela Drive,1.8
+Anne Street,2.4
+Apache Avenue,3.6
+Archer Church Road,4.1
+Archer Highway,5.0
+Archer Road,2.8
+Arctic Willow Drive,1.7
+Aries Drive,1.3
+Ash Avenue,2.2
+Autumn Court,1.9
+Autumn Drive,3.4
+Ball Road,4.7
+Bare Street,2.3
+Barker Road,2.9
+Barney Dairy Road,3.6
+Bell Corner Road,4.2
+Birch Avenue,1.1
+Blackhawk Drive,2.5
+Blue Willow Circle,1.6
+Bluebell,2.8
+Bluebell Street,2.9
+Bob Frew Road,3.7
+Bond Avenue,1.5
+Burton Loop Road,4.8
+Burton Oil Road,3.9
+Bybee Dugway Road,2.6
+Canyon Springs Drive,3.2
+Capital Lane,2.4
+Carlson Avenue,1.8
+Casper Avenue,1.2
+Cemetery Road,4.3
+Centennial Loop,3.7
+Center Street,2.0
+Chad Drive,1.3
+Clements Lane,1.6
+Cody Street,2.1
+College Avenue,2.4
+Colonial Way,3.5
+Commanche Drive,1.9
+Constitution Avenue,3.8
+Cook Avenue,1.7
+Cook Street,2.4
+Cornell Avenue,1.5
+Countryside Avenue,2.8
+County Line Road,3.1
+Covinton Road,4.5
+Coyote Willow Way,2.3
+Crescent Drive,1.1
+Crestview Street,2.0
+Cul de Sac Street,1.4
+David Court,2.2
+Dell Drive,3.3
+Democrat Road,1.6
+Dividend Drive,4.9
+Douglas Drive,3.7
+E 100 N,2.6
+E 1000 N,4.1
+E 1000 North Street,3.4
+E 10000 S,7.8
+E 1122 N,2.5
+E 1200 N,1.2
+E 1400 N,3.6
+E 1788 N,2.8
+E 183 N,4.5
+E 1st N,1.7
+E 1st S,3.0
+E 200 N,2.4
+E 2000 N,4.2
+E 2000 S,3.8
+E 230 N,1.1
+E 2nd N,2.7
+E 2nd S,3.5
+E 3000 N,5.1
+E 3250 N,3.3
+E 3375 N,4.6
+E 350 South Street,2.2
+E 3500 N,5.8
+E 3625 N,6.1
+E 3750 N,3.7
+E 3rd S,1.8
+E 4th N,2.5
+E 4th S,4.4
+E 5000 N,6.8
+E 5th S,2.9
+E 7000 S,7.1
+E 7156 S,4.0
+E 7242 S,3.9
+E 7800 S,6.2
+E 7th N,2.7
+E 8000 S,8.4
+E 8200 S,6.5
+E 8750 S,5.2
+E 9000 S,7.7
+E 9113 S,8.2
+E 9500 S,9.1
+E 9777 S,7.9
+E Main Street,3.5
+E Moody Road,6.3
+E Sunset Circle,2.4
+Eagle Court,2.1
+Eagle Summit Street,4.6
+Eaglewood Drive,1.9
+Edith Circle,3.0
+Elizabeth Street,2.4
+Elm Avenue,1.6
+Enbleman Street,2.5
+Engleman Street,1.3
+Everett Place,2.0
+Fairview Avenue,3.3
+Ferrell Rock Road,4.1
+Ferris Lane,2.2
+Fisher Road,3.7
+Fort Henry Loop,4.8
+Franklin Drive,2.5
+Freedom Avenue,3.9
+Freedom Lane,2.1
+Fremont Avenue,3.4
+Gary Drive,1.7
+Gemini Drive,2.8
+Georgetown Drive,4.4
+Golden Beauty Drive,2.3
+Golden Willow Circle,1.6
+Golden Willow Drive,2.2
+Grandview Drive,3.6
+Grandview Lane,1.8
+Green Haven Street,2.5
+Green Willow Drive,2.9
+Greenhaven Court,1.4
+Griffin Street,2.7
+Harris Lane,3.2
+Harvard Avenue,4.0
+Harvest Drive,2.6
+Hegsted Road,3.9
+Henderson Avenue,1.9
+Henderson Street,2.3
+Heritage Road,2.0
+Hibbard Church Road,4.3
+Hibbard Highway,5.6
+Hidden Valley Road,3.8
+High Meadows Lane,1.5
+High Top Lane,2.1
+Hillside Drive,3.4
+Hillview Drive,2.7
+Holley Street,2.0
+Holly,1.7
+Homestead Street,2.3
+Horizon Drive,1.5
+Huckleberry Circle,1.9
+Hunt Hill Road,3.8
+Island Street,2.1
+Jefferson Drive,3.0
+Jensen Road,4.2
+Jerry Avenue,1.5
+Jill Drive,2.3
+Joel Hansen,3.4
+John Hansen,4.1
+Johnson Avenue,2.2
+Johnson Street,1.6
+Jud Street,3.1
+Juniper Avenue,2.4
+Junkyard Road,3.8
+K Street,1.2
+Kennedy Road,3.5
+Lake Loizene Drive,2.7
+Laleene Drive,3.0
+Larch Drive,1.4
+Laurel,2.6
+Laurel Street,3.2
+Legacy Lane,1.9
+Liberty Lane,2.4
+Lilac Street,3.7
+Linden Avenue,1.8
+Lodgepole Street,2.1
+Lodgepple Street,2.6
+Lupine Circle,1.9
+Lyman Church Road,4.3
+Madison Avenue,3.0
+Maple Avenue,1.7
+Maple Drive,2.9
+Mariah Avenue,3.2
+Marianne Drive,2.1
+Marianne Street,1.9
+Marigold Street,3.4
+Mark Avenue,2.5
+Mark Drive,1.6
+Max Drive,2.2
+Mc Cray Road,3.6
+Mc Culloch Road,4.3
+Mc Rae Road,3.1
+McJon Lane,2.8
+Meadowbrook Street,1.9
+Meadowview Avenue,3.7
+Melanie Drive,1.3
+Mill Race Road,3.5
+Mill Stream Street,1.8
+Millhllow Road,2.9
+Mohawk Avenue,3.4
+Molly Drive,2.2
+Moody Road,4.6
+Morgan Drive,1.7
+Morning View Drive,2.5
+Mud Springs Road,3.8
+Muskrat Road,1.5
+N 1000 E,2.3
+N 1000 W,1.8
+N 125 E,3.1
+N 12th W,2.6
+N 1427 E,2.0
+N 1500 W,3.7
+N 1626 W,1.9
+N 1800 E,2.7
+N 1900 E,1.4
+N 1st E,2.5
+N 1st W,2.9
+N 2000 E,3.1
+N 2000 W,4.0
+N 2000 West Street,3.3
+N 2162 W,2.4
+N 250 E,2.8
+N 2582 W,3.7
+N 2nd E,1.5
+N 2nd W,2.3
+N 3000 W,3.0
+N 3102 W,1.6
+N 3130 W,2.9
+N 3366 W,2.4
+N 3441 W,3.5
+N 3519 W,2.7
+N 3700 E,3.4
+N 3701 W,2.8
+N 375 E,1.9
+N 3rd E,3.2
+N 3rd W,1.3
+N 4000 W,2.1
+N 4225 W,3.1
+N 4708 W,1.5
+N 495 W,2.7
+N 4th E,2.3
+N 4th W,3.0
+N 500 E,2.2
+N 5000 W,4.1
+N 5125 W,3.6
+N 5500 W,4.4
+N 5631 W,3.0
+N 5725 W,1.8
+N 5817 W,2.5
+N 5th W,3.3
+N 6000 W,4.5
+N 740 W,2.6
+N Center Street,2.0
+N Cottonwood Lane,3.2
+N Fremont Avenue,2.1
+N Hill Road,3.4
+N Millhollow Road,3.7
+N Salem Road,2.8
+N Second East Street,3.1
+Nelson Road,4.2
+Nez Perce Avenue,2.4
+Nina Drive,1.5
+Northfork Estates Road,3.0
+Oak Avenue,2.3
+Oaktrail Drive,2.7
+Orange Bridge Road,1.6
+Orchard Avenue,2.9
+Orrin Lane,3.8
+Palmer Circle,1.9
+Paradise Avenue,3.3
+Park Avenue,2.4
+Park Street,2.1
+Parkside Drive,1.5
+Partridge Lane,3.2
+Pinehaven Street,2.8
+Pinetree Road,1.7
+Pioneer Road,2.5
+Plano Road,3.9
+Plano Townsite Road,4.1
+Pleasantview,2.3
+Pollard Avenue,2.0
+Pollard Drive,3.1
+Polo Drive,2.7
+Ponderosa Avenue,2.4
+Poplar Circle,3.0
+Princeton Court,1.6
+Professional Plaza,3.3
+Randy Drive,1.5
+Rebecca Drive,2.2
+Red Cedar Road,3.6
+Reed Street,2.4
+Rexburg Road,3.8
+Ricks Avenue,2.1
+Ricks Road,2.5
+River Bridge Road,3.3
+River Road,2.8
+Robinson Road,1.7
+Robison Drive,2.2
+Rodney Drive,2.4
+Rolling Hills Drive,3.1
+Rosewood Drive,2.9
+Russell Road,2.5
+S 1000 W,3.2
+S 1100 E,2.3
+S 1100 Road E,1.8
+S 1371 W,3.5
+S 1400 W,2.7
+S 1420 W,3.1
+S 1450 W,2.9
+S 1500 W,3.6
+S 1542 W,1.5
+S 1560 W,2.4
+S 1563 W,3.7
+S 1600 E,2.8
+S 1661 W,2.1
+S 1800 W,3.4
+S 1st E,1.8
+S 1st W,2.6
+S 200 E,1.7
+S 200 W,2.9
+S 2000 W,4.2
+S 2626 W,2.4
+S 2785 W,1.9
+S 2810 W,2.3
+S 2860 W,2.8
+S 2nd E,2.1
+S 2nd W,3.2
+S 3000 W,3.9
+S 3100 W,1.8
+S 3300 W,3.3
+S 3421 W,2.5
+S 3450 W,3.1
+S 3876 W,2.7
+S 3rd E,2.6
+S 3rd W,3.4
+S 400 W,2.1
+S 4000 W,3.6
+S 4056 W,1.9
+S 4300 W,3.7
+S 4413 W,2.5
+S 4800 W,3.3
+S 4th E,2.8
+S 4th W,3.1
+S 5000 W,4.0
+S 550 W,2.4
+S 5500 W,3.2
+S 5700 W,1.5
+S 5th E,2.9
+S 5th W,3.0
+S 600 E,2.3
+S 6000 W,3.8
+S 6252 W,2.6
+S 700 W,1.9
+S 7000 W,4.4
+S 7067 W,3.0
+S 7100 W,2.5
+S 9000 E,3.1
+S Cameron Lane,2.2
+S Cedar Butte Circle,1.8
+S Center Street,2.4
+S Desert Rock Drive,3.7
+S Heise Road,2.9
+S Hidden Valley Road,1.9
+S Highway 191,3.5
+S Mill Hollow Road,2.6
+S Millhollow Road,3.3
+S Morningside Drive,2.1
+S Rairroad Avenue,1.7
+S Second W Street,3.0
+S Skyview Drive,2.5
+S Skyview Road,2.9
+S Snake River Road,3.1
+S Yellowstone Highway,2.8
+Salem Avenue,3.5
+Salem Church Road,1.4
+Salem Pines Lane,2.7
+Salem Road,3.4
+Salem-Parker Highway,2.5
+Sandhill Circle,2.1
+Seagull Drive,1.3
+Sequoia Avenue,2.8
+Shoshone Avenue,1.9
+Smith Road,2.4
+Sparrowhawk Drive,3.7
+Star View Drive,1.6
+State Highway 33,4.0
+Stegelmeier Lane,2.3
+Steiner Avenue,3.2
+Stocks Avenue,2.5
+Stonebridge Street,1.8
+Summerwood Drive,3.4
+Sunflower Drive,2.1
+Sunflower Road,1.7
+Susan Drive,3.3
+Syringa Street,1.5
+Talon Drive,2.2
+Tamarack Avenue,1.4
+Taurus Drive,3.1
+Terra Vista Drive,2.6
+Teton Avenue,1.2
+Tetonview Drive,3.5
+The Burma Road,2.7
+Timberhawk Drive,1.6
+Timberline Road,3.2
+Trapper Lane,2.3
+Trejo Street,1.9
+Twisted Willow,2.8
+Union-Lyman Road,3.7
+US Highway 20,3.5
+Vale Lane,1.3
+Valinda Lane,2.4
+Valley View Drive,2.6
+Viking Drive,3.1
+Violet,2.9
+Violet Street,1.8
+Vista Avenue,3.4
+Vista Drive,1.7
+W 1000 N,2.5
+W 1000 S,3.3
+W 1450 N,2.1
+W 1460 N,1.5
+W 14th N,2.8
+W 1500 N,3.4
+W 1500 S,2.7
+W 1600 N,3.9
+W 1750 N,2.3
+W 1829 S,1.7
+W 190 S,3.1
+W 1st N,2.0
+W 1st S,3.2
+W 2000 N,3.6
+W 2000 S,2.8
+W 2600 S,1.4
+W 2700 S,3.1
+W 2870 S,2.4
+W 2nd N,3.7
+W 2nd S,2.1
+W 3000 N,4.2
+W 3000 S,3.4
+W 3200 S,1.8
+W 3400 S,3.9
+W 3500 N,2.5
+W 3800 S,3.3
+W 3rd N,1.4
+W 3rd S,2.9
+W 4000 N,3.8
+W 4000 S,2.6
+W 4200 N,4.1
+W 4200 S,3.2
+W 4217 N,1.6
+W 4300 S,2.5
+W 4313 N,3.3
+W 440 S,1.9
+W 4407 N,2.3
+W 4500 N,3.7
+W 4557 N,1.8
+W 460 N,3.1
+W 4650 N,3.4
+W 4700 S,2.2
+W 4732 S,1.5
+W 4800 S,3.5
+W 483 N,2.6
+W 4950 S,1.9
+W 4th S,3.0
+W 5000 N,4.3
+W 5000 S,3.7
+W 515 N,1.5
+W 5200 S,2.8
+W 5500 S,3.1
+W 563 S,1.8
+W 575 N,3.2
+W 5th S,2.0
+W 6000 N,4.4
+W 6000 S,3.0
+W 6200 S,2.7
+W 6300 S,1.6
+W 6800 S,3.9
+W 6960 S,2.5
+W 6th S,3.3
+W 7000 S,2.9
+W 7200 S,1.4
+W 7600 S,3.6
+W 7800 S,2.1
+W 7th S,3.7
+W 8000 S,3.1
+W 8200 S,1.9
+W 9000 S,4.2
+W 930 S,2.4
+W 9631 S,1.3
+W Benlit Estates Street,3.1
+W Cottonwood Drive,1.6
+W Haven Lane,3.0
+W Highway 33,3.5
+W Main Street,2.7
+W Moody Road,2.9
+W Moran View Drive,3.4
+W Moran View Road,2.2
+W Mountain View Drive,3.8
+W Poleline Road,1.8
+W Sagebrush Avenue,3.6
+W Sixth South Street,1.5
+W Sunset Circle,2.5
+Wagon Trail Road,3.1
+Walker Road,1.9
+Webster Avenue,3.0
+Webster Butte Road,1.2
+Westwood Drive,2.8
+Wheatland Circle,3.2
+Wheatland Drive,1.4
+White Pine Street,3.7
+White Slough Road,2.1
+Whitson Road,1.7
+Widdison Lane,3.4
+Willis Drive,1.9
+Willow Brook Circle,2.7
+Willow Brook Drive,1.6
+Willow Brook Place,3.2
+Withers Road,1.8
+Woodbridge Street,2.5
+Yale Avenue,3.6
+Yellowstone Highway,2.3
+Yost Street,1.7

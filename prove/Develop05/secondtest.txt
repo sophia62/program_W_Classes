@@ -1,0 +1,5 @@
+290
+SimpleGoal|newsimple|siple|5
+EternalGoal|eternal|eternal goal|10
+ChecklistGoal|checklist|newcheck|20|3|5|50|[x]
+SimpleGoal|here|two|40
