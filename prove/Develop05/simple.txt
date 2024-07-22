@@ -1,0 +1,2 @@
+0
+SimpleGoal| newgoal|Description:newgoal and stuff|Points:5

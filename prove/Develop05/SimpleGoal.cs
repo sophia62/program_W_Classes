@@ -20,7 +20,7 @@ public class SimpleGoal : CreateGoal
         string[] parts = line.Split('|');
         Goal = parts[1];
         Description = parts[2];
-        Points = int.Parse(parts[3]);
+         Points = int.Parse(parts[3].Replace("Points:", "").Trim());
     }
         }
 

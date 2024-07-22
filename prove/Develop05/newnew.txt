@@ -1,4 +1,0 @@
-5
-SimpleGoal| left|Description:rigt|Points:5
-EternalGoal| fedj|Description:fdkjf|Points:5
-ChecklistGoal|fdjkfd|Description: fjdkfj|Points:5|Times needed for completion:3|Times goal has been done:1|Bonus Points: 2|Has completed:

@@ -14,7 +14,7 @@ public class ChecklistGoal : CreateGoal
     public override string GetStringRepresentation()
     {
         string completedMark = TimesCompleted >= TimesNeeded ? "[x]" : "";
-        return $"ChecklistGoal|{Goal}|Description: {Description}|Points:{Points}|Times needed for completion:{TimesNeeded}|Times goal has been done:{TimesCompleted}|Bonus Points: {BonusPoints}|Has completed:{completedMark}";
+        return $"ChecklistGoal|{Goal}|Description: {Description}|{Points}|Times needed for completion:{TimesNeeded}|Times goal has been done:{TimesCompleted}|Bonus Points: {BonusPoints}|Has completed:{completedMark}";
     }
 
     public override void RecordEvent(ref int userScore)

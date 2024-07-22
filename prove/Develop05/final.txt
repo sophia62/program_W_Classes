@@ -1,0 +1,4 @@
+60
+SimpleGoal|  bbb|Description:Description:bbb|Points:10
+EternalGoal|  ggg|Description:Description:ggg|20
+ChecklistGoal|ccc|Description: Description: ccc|30|Times needed for completion:3|Times goal has been done:1|Bonus Points: 50|Has completed:

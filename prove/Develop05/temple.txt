@@ -1,0 +1,4 @@
+0
+SimpleGoal| goal to wake up|Description:wake up|Points:20
+EternalGoal| go to church|Description:go to church on time|40
+ChecklistGoal|Go to temple 3 times|Description: Go three times|20|Times needed for completion:3|Times goal has been done:0|Bonus Points: 100|Has completed:

@@ -4,6 +4,8 @@ using System.IO;
 
 public static class LoadGoal
 {
+    private const int V = 2;
+
     public static (List<CreateGoal>, int) Load(string filename)
     {
         List<CreateGoal> goals = new List<CreateGoal>();
@@ -28,15 +30,18 @@ public static class LoadGoal
                 switch (type)
                 {
                     case "SimpleGoal":
-                        goal = new SimpleGoal(parts[1], parts[2], int.Parse(parts[3]));
+                        goal = new SimpleGoal(parts[1], parts[2], int.Parse(parts[3].Replace("Points:", "").Trim()));
+                        
                         break;
                     case "EternalGoal":
-                        goal = new EternalGoal(parts[1], parts[2], int.Parse(parts[3]));
+                        goal = new EternalGoal(parts[1], parts[2], int.Parse(parts[3].Replace("Points:", "").Trim()));
                         break;
                     case "ChecklistGoal":
-                        goal = new ChecklistGoal(parts[1], parts[2], int.Parse(parts[3]), int.Parse(parts[4]), int.Parse(parts[6]))
+                        goal = new ChecklistGoal(parts[1], parts[2], int.Parse(parts[3].Replace("Points:", "").Trim()), 
+                                                int.Parse(parts[4].Replace("Times needed for completion:", "").Trim()), 
+                                                int.Parse(parts[6].Replace("Bonus Points:", "").Trim()))
                         {
-                            TimesCompleted = int.Parse(parts[5].TrimEnd("[x]".ToCharArray()))
+                            TimesCompleted = int.Parse(parts[5].Replace("Times goal has been done:", "").Trim().TrimEnd("[x]".ToCharArray()))
                         };
                         break;
                 }

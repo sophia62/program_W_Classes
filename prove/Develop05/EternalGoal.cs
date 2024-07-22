@@ -7,7 +7,7 @@ public class EternalGoal : CreateGoal
 
     public override string GetStringRepresentation()
     {
-        return $"EternalGoal| {Goal}|Description:{Description}|Points:{Points}";
+        return $"EternalGoal| {Goal}|Description:{Description}|{Points}";
     }
 
     public override void RecordEvent(ref int userScore)
